@@ -23,3 +23,5 @@ sol03.js    - 프로그래머스: 삼총사                 https://school.progr
 sol04.js    - 프로그래머스: 크기가 작은 부분                  https://school.programmers.co.kr/learn/courses/30/lessons/147355
 
 sol05.cpp   - 프로그래머스: 최소 직사각형               https://school.programmers.co.kr/learn/courses/30/lessons/86491
+
+sol06.js    - 프로그래머스: 시저 암호               https://school.programmers.co.kr/learn/courses/30/lessons/12926
