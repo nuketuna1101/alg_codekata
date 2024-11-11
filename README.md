@@ -21,3 +21,5 @@ sol02.js    - 프로그래머스: 이상한 문자 만들기      https://school
 sol03.js    - 프로그래머스: 삼총사                 https://school.programmers.co.kr/learn/courses/30/lessons/131705
 
 sol04.js    - 프로그래머스: 크기가 작은 부분                  https://school.programmers.co.kr/learn/courses/30/lessons/147355
+
+sol05.cpp   - 프로그래머스: 최소 직사각형               https://school.programmers.co.kr/learn/courses/30/lessons/86491
