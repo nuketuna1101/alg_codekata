@@ -29,3 +29,11 @@ sol06.js    - 프로그래머스: 시저 암호               https://school.pro
 sol07.js    - 프로그래머스: 숫자 문자열과 영단어    https://school.programmers.co.kr/learn/courses/30/lessons/81301
 
 sol08.js    - 프로그래머스: 문자열 내 마음대로 정렬하기     https://school.programmers.co.kr/learn/courses/30/lessons/12915
+
+sol09.js    - 프로그래머스: k번째 수        https://school.programmers.co.kr/learn/courses/30/lessons/42748
+
+
+
+---
+
+        // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
