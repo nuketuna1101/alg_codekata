@@ -27,3 +27,5 @@ sol05.cpp   - 프로그래머스: 최소 직사각형               https://scho
 sol06.js    - 프로그래머스: 시저 암호               https://school.programmers.co.kr/learn/courses/30/lessons/12926
 
 sol07.js    - 프로그래머스: 숫자 문자열과 영단어    https://school.programmers.co.kr/learn/courses/30/lessons/81301
+
+sol08.js    - 프로그래머스: 문자열 내 마음대로 정렬하기     https://school.programmers.co.kr/learn/courses/30/lessons/12915
