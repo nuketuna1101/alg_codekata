@@ -32,8 +32,10 @@ sol08.js    - 프로그래머스: 문자열 내 마음대로 정렬하기     ht
 
 sol09.js    - 프로그래머스: k번째 수        https://school.programmers.co.kr/learn/courses/30/lessons/42748
 
+sol10.js    - 프로그래머스: 두 개 뽑아서 더하기     https://school.programmers.co.kr/learn/courses/30/lessons/68644
 
-
+sol11.js    - 프로그래머스: 가장 가까운 같은 글자   https://school.programmers.co.kr/learn/courses/30/lessons/142086
 ---
 
         // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
+// map 사용 시 값 변경은 set(), 가져올 땐 배열 인덱스가 아니라 get() 사용
