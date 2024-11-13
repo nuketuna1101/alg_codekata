@@ -46,9 +46,11 @@ sol15.js    - 프로그래머스: 2016년                  https://school.progra
 
 sol16.js    - 프로그래머스: 카드뭉치                https://school.programmers.co.kr/learn/courses/30/lessons/159994
 
+sol17.js    - 프로그래머스: 과일장수                https://school.programmers.co.kr/learn/courses/30/lessons/135808
 
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
 // map 사용 시 값 변경은 set(), 가져올 땐 배열 인덱스가 아니라 get() 사용
 // 문자열 역순 만들기           const rev = result.split('').reverse().join('');
+// sol17 : splice 사용 시 시간초과 나서 그냥 인덱스 값 접근으로 해결
