@@ -40,7 +40,13 @@ sol12.js    - 프로그래머스: 푸드 파이트 대회        https://school.
 
 sol13.js    - 프로그래머스: 콜라 문제               https://school.programmers.co.kr/learn/courses/30/lessons/132267
 
-sol 14.js   - 프로그래머스: 명예의 전당(1)          https://school.programmers.co.kr/learn/courses/30/lessons/138477
+sol14.js    - 프로그래머스: 명예의 전당(1)          https://school.programmers.co.kr/learn/courses/30/lessons/138477
+
+sol15.js    - 프로그래머스: 2016년                  https://school.programmers.co.kr/learn/courses/30/lessons/12901
+
+
+
+
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
