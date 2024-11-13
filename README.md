@@ -37,6 +37,8 @@ sol10.js    - 프로그래머스: 두 개 뽑아서 더하기     https://school
 sol11.js    - 프로그래머스: 가장 가까운 같은 글자   https://school.programmers.co.kr/learn/courses/30/lessons/142086
 
 sol12.js    - 프로그래머스: 푸드 파이트 대회        https://school.programmers.co.kr/learn/courses/30/lessons/134240
+
+sol13.js    - 프로그래머스: 콜라 문제               https://school.programmers.co.kr/learn/courses/30/lessons/132267
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
