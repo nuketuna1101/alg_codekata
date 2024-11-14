@@ -51,6 +51,10 @@ sol17.js    - 프로그래머스: 과일장수                https://school.pro
 sol18.js    - 프로그래머스: 모의고사                https://school.programmers.co.kr/learn/courses/30/lessons/42840
 
 sol19.js    - 프로그래머스: 소수 만들기         https://school.programmers.co.kr/learn/courses/30/lessons/12977
+
+sol20.js    - 프로그래머스: 덧칠하기            https://school.programmers.co.kr/learn/courses/30/lessons/161989
+
+sol21.js    - 프로그래머스: 기사단원의 무기     https://school.programmers.co.kr/learn/courses/30/lessons/136798
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
