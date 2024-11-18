@@ -63,6 +63,8 @@ sol23.js    - 프로그래머스: 옹알이2    https://school.programmers.co.kr
 sol24.js    - 프로그래머스: 숫자 짝꿍       https://school.programmers.co.kr/learn/courses/30/lessons/131128
 
 sol25.cpp   - 프로그래머스: 체육복          https://school.programmers.co.kr/learn/courses/30/lessons/42862
+
+sol.26.js   - 프로그래머스: 문자열 나누기           https://school.programmers.co.kr/learn/courses/30/lessons/140108
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
