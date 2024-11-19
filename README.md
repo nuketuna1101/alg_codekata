@@ -68,6 +68,7 @@ sol.26.js   - 프로그래머스: 문자열 나누기           https://school.p
 
 sol27.js    - 프로그래머스: 대충 만든 자판              https://school.programmers.co.kr/learn/courses/30/lessons/160586
 
+sol28.js    - 프로그래머스: 둘만의 암호             https://school.programmers.co.kr/learn/courses/30/lessons/155652
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
