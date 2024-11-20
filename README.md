@@ -71,6 +71,10 @@ sol27.js    - 프로그래머스: 대충 만든 자판              https://scho
 sol28.js    - 프로그래머스: 둘만의 암호             https://school.programmers.co.kr/learn/courses/30/lessons/155652
 
 sol29.js    - 프로그래머스: 햄버거 만들기           https://school.programmers.co.kr/learn/courses/30/lessons/133502
+
+sol30.js    - 프로그래머스: 성격 유형 검사하기      https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=javascript
+
+sol31.js    - 프로그래머스: 바탕화면 정리           https://school.programmers.co.kr/learn/courses/30/lessons/161990
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
