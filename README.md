@@ -75,6 +75,8 @@ sol29.js    - 프로그래머스: 햄버거 만들기           https://school.p
 sol30.js    - 프로그래머스: 성격 유형 검사하기      https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=javascript
 
 sol31.js    - 프로그래머스: 바탕화면 정리           https://school.programmers.co.kr/learn/courses/30/lessons/161990
+
+sol32.js    - 프로그래머스: 개인정보 수집 유효기간  https://school.programmers.co.kr/learn/courses/30/lessons/150370
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
