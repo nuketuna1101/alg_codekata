@@ -9,10 +9,11 @@ vector<int> solution(vector<string> park, vector<string> routes)
     pair<int, int> cur;
 
     int pX = park.size();
+    int pY = park[0].size();
     // 초기화
     for (int i = 0; i < pX; i++)
     {
-        for (int j = 0; j < park[i].size(); j++)
+        for (int j = 0; j < pY; j++)
         {
             if (park[i][j] == 'S')
                 cur = make_pair(i, j);
@@ -42,10 +43,8 @@ vector<int> solution(vector<string> park, vector<string> routes)
             break;
         };
 
-        if ((cur.first + (dirY * dist) < pX 
-        && cur.first + (dirY * dist) >= 0) 
-        && (cur.second + (dirX * dist) < park[0].size() 
-        && cur.second + (dirX * dist) >= 0))
+        if ((cur.first + (dirY * dist) < pX && cur.first + (dirY * dist) >= 0) 
+        && (cur.second + (dirX * dist) < pY && cur.second + (dirX * dist) >= 0))
         {
             int j;
             for (j = 1; j <= dist; j++)
