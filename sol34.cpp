@@ -51,8 +51,7 @@ vector<int> solution(vector<string> park, vector<string> routes)
             {
                 if (park[cur.first + (dirY * j)][cur.second + (dirX * j)] == 'X')
                     break;
-                
-                
+                     
             }
 
             if (j > dist)
