@@ -88,7 +88,7 @@ sol36.cpp   - 프로그래머스: 최댓값과 최솟값     https://school.prog
 
 sol37.cpp   - 프로그래머스: JadenCase 문자열 만들기     https://school.programmers.co.kr/learn/courses/30/lessons/12951
 
-
+sol38.cpp   - 프로그래머스: 이진 변환 반복하기          https://school.programmers.co.kr/learn/courses/30/lessons/70129
 
 
 
