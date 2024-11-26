@@ -83,6 +83,8 @@ sol33.js    - 프로그래머스: 달리기 경주         https://school.progra
 sol34.cpp   - 프로그래머스: 공원 산책           https://school.programmers.co.kr/learn/courses/30/lessons/172928?language=cpp
 
 sol35.cpp   - 프로그래머스: 신고결과 받기       https://school.programmers.co.kr/learn/courses/30/lessons/92334
+
+sol36.cpp   - 프로그래머스: 최댓값과 최솟값     https://school.programmers.co.kr/learn/courses/30/lessons/12939
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
