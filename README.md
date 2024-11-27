@@ -92,6 +92,8 @@ sol38.cpp   - 프로그래머스: 이진 변환 반복하기          https://sc
 
 sol39.cpp   - 프로그래머스: 피보나치 수         https://school.programmers.co.kr/learn/courses/30/lessons/12945
 
+sol40.cpp   - 프로그래머스: 카펫         https://school.programmers.co.kr/learn/courses/30/lessons/42842
+
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
