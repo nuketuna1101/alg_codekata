@@ -94,6 +94,10 @@ sol39.cpp   - 프로그래머스: 피보나치 수         https://school.progra
 
 sol40.cpp   - 프로그래머스: 카펫         https://school.programmers.co.kr/learn/courses/30/lessons/42842
 
+sol41.cpp   - 프로그래머스: 예상 대진표        https://school.programmers.co.kr/learn/courses/30/lessons/12985
+
+sol42.cpp   - 프로그래머스: n개의 최소공배수        https://school.programmers.co.kr/learn/courses/30/lessons/12953
+
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
