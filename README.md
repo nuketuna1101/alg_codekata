@@ -98,6 +98,10 @@ sol41.cpp   - 프로그래머스: 예상 대진표        https://school.program
 
 sol42.cpp   - 프로그래머스: n개의 최소공배수        https://school.programmers.co.kr/learn/courses/30/lessons/12953
 
+sol43.cpp   - 프로그래머스: 멀리 뛰기           https://school.programmers.co.kr/learn/courses/30/lessons/12914
+
+
+
 ---
 
 // sort는 문자열 비교함수이므로 숫자 배열 정렬을 위한 기준 중요!!
