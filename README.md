@@ -102,6 +102,7 @@ sol43.cpp   - 프로그래머스: 멀리 뛰기           https://school.program
 
 sol44.cpp   - 프로그래머스: 귤 고르기           https://school.programmers.co.kr/learn/courses/30/lessons/138476?language=cpp
 
+sol45.cpp   - 프로그래머스: 괄호 회전하기           https://school.programmers.co.kr/learn/courses/30/lessons/76502
 
 ---
 
