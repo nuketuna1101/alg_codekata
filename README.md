@@ -108,7 +108,9 @@ sol46.cpp   - 프로그래머스: 연속 부분 수열 합의 개수        http
 
 sol47.cpp   - 프로그래머스: h-index        https://school.programmers.co.kr/learn/courses/30/lessons/42747
 
+sol48.cpp   - 프로그래머스: n^2 배열 자르기        https://school.programmers.co.kr/learn/courses/30/lessons/87390
 
+sol49.cpp   - 프로그래머스: 행렬의 곱셈        https://school.programmers.co.kr/learn/courses/30/lessons/12949
 
 ---
 
