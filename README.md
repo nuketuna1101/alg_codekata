@@ -114,6 +114,8 @@ sol49.cpp   - 프로그래머스: 행렬의 곱셈        https://school.program
 
 sol50.cpp   - 프로그래머스: 할인 행사        https://school.programmers.co.kr/learn/courses/30/lessons/131127
 
+sol51.cpp   - 프로그래머스: 의상        https://school.programmers.co.kr/learn/courses/30/lessons/42578
+
 ---
 
 
