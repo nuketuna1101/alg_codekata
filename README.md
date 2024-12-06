@@ -118,8 +118,9 @@ sol51.cpp   - 프로그래머스: 의상        https://school.programmers.co.kr
 
 sol52.cpp   - 프로그래머스: 기능개발        https://school.programmers.co.kr/learn/courses/30/lessons/42586
 
-sol52.cpp   - 프로그래머스: 프로세스        https://school.programmers.co.kr/learn/courses/30/lessons/42587
+sol53.cpp   - 프로그래머스: 프로세스        https://school.programmers.co.kr/learn/courses/30/lessons/42587
 
+sol54.cpp   - 프로그래머스: 피로도        https://school.programmers.co.kr/learn/courses/30/lessons/87946
 
 
 
