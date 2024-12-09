@@ -122,6 +122,8 @@ sol53.cpp   - 프로그래머스: 프로세스        https://school.programmers
 
 sol54.cpp   - 프로그래머스: 피로도        https://school.programmers.co.kr/learn/courses/30/lessons/87946
 
+sol55.cpp   - 프로그래머스: 타겟 넘버        https://school.programmers.co.kr/learn/courses/30/lessons/43165
+
 
 
 ---
