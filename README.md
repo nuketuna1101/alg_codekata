@@ -124,6 +124,7 @@ sol54.cpp   - 프로그래머스: 피로도        https://school.programmers.co
 
 sol55.cpp   - 프로그래머스: 타겟 넘버        https://school.programmers.co.kr/learn/courses/30/lessons/43165
 
+sol56.cpp   - 프로그래머스: K진수에서 소수 개수 구하기        https://school.programmers.co.kr/learn/courses/30/lessons/92335
 
 
 ---
