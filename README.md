@@ -126,7 +126,9 @@ sol55.cpp   - 프로그래머스: 타겟 넘버        https://school.programmer
 
 sol56.cpp   - 프로그래머스: K진수에서 소수 개수 구하기        https://school.programmers.co.kr/learn/courses/30/lessons/92335
 
-sol56.cpp   - 프로그래머스: 주차요금 계산       https://school.programmers.co.kr/learn/courses/30/lessons/92341
+sol57.cpp   - 프로그래머스: 주차요금 계산       https://school.programmers.co.kr/learn/courses/30/lessons/92341
+
+sol58.cpp   - 프로그래머스: 모음 사전      https://school.programmers.co.kr/learn/courses/30/lessons/84512
 
 ---
 
