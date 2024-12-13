@@ -134,6 +134,8 @@ sol59.cpp   - 프로그래머스: 뒤에 있는 큰 수 찾기      https://scho
 
 sol60.cpp   - 프로그래머스: 롤케이크 자르기      https://school.programmers.co.kr/learn/courses/30/lessons/132265
 
+sol61.cpp   - 프로그래머스: 숫자 변환하기      https://school.programmers.co.kr/learn/courses/30/lessons/154538
+
 ---
 
 
