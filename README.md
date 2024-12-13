@@ -132,6 +132,8 @@ sol58.cpp   - 프로그래머스: 모음 사전      https://school.programmers.
 
 sol59.cpp   - 프로그래머스: 뒤에 있는 큰 수 찾기      https://school.programmers.co.kr/learn/courses/30/lessons/154539
 
+sol60.cpp   - 프로그래머스: 롤케이크 자르기      https://school.programmers.co.kr/learn/courses/30/lessons/132265
+
 ---
 
 
