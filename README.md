@@ -138,6 +138,7 @@ sol61.cpp   - 프로그래머스: 숫자 변환하기      https://school.progra
 
 sol62.cpp   - 프로그래머스: 2개 이하로 다른 비트      https://school.programmers.co.kr/learn/courses/30/lessons/77885
 
+sol63.cpp   - 프로그래머스: 다리를 지나는 트럭      https://school.programmers.co.kr/learn/courses/30/lessons/42583
 
 ---
 
