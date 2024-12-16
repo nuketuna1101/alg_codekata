@@ -136,6 +136,9 @@ sol60.cpp   - 프로그래머스: 롤케이크 자르기      https://school.pro
 
 sol61.cpp   - 프로그래머스: 숫자 변환하기      https://school.programmers.co.kr/learn/courses/30/lessons/154538
 
+sol62.cpp   - 프로그래머스: 2개 이하로 다른 비트      https://school.programmers.co.kr/learn/courses/30/lessons/77885
+
+
 ---
 
 
