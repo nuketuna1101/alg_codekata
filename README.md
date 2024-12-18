@@ -144,6 +144,8 @@ sol64.cpp   - 프로그래머스: 가장 큰 수     https://school.programmers.
 
 sol65.cpp   - 프로그래머스: 소수 찾기     https://school.programmers.co.kr/learn/courses/30/lessons/42839
 
+sol66.cpp   - 프로그래머스: 쿼드압축 후 개수 세기     https://school.programmers.co.kr/learn/courses/30/lessons/68936
+
 ---
 
 
@@ -151,3 +153,4 @@ sol65.cpp   - 프로그래머스: 소수 찾기     https://school.programmers.c
 // map 사용 시 값 변경은 set(), 가져올 땐 배열 인덱스가 아니라 get() 사용
 // 문자열 역순 만들기           const rev = result.split('').reverse().join('');
 // sol17 : splice 사용 시 시간초과 나서 그냥 인덱스 값 접근으로 해결
+// sol66 : func의 parameter로 vector를 받을 때에, vector 전체를 보내기 보단, 주소값을 전달함으로 얕은 복사로 효율성 최적화
