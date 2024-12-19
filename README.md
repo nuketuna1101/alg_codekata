@@ -146,6 +146,8 @@ sol65.cpp   - 프로그래머스: 소수 찾기     https://school.programmers.c
 
 sol66.cpp   - 프로그래머스: 쿼드압축 후 개수 세기     https://school.programmers.co.kr/learn/courses/30/lessons/68936
 
+sol67.cpp   - 프로그래머스: 택배상자     https://school.programmers.co.kr/learn/courses/30/lessons/131704
+
 ---
 
 
