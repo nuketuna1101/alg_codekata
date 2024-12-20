@@ -148,6 +148,8 @@ sol66.cpp   - 프로그래머스: 쿼드압축 후 개수 세기     https://sch
 
 sol67.cpp   - 프로그래머스: 택배상자     https://school.programmers.co.kr/learn/courses/30/lessons/131704
 
+sol68.cpp   - 프로그래머스: 큰 수 만들기     https://school.programmers.co.kr/learn/courses/30/lessons/42883
+
 ---
 
 
