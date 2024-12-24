@@ -152,6 +152,8 @@ sol68.cpp   - 프로그래머스: 큰 수 만들기     https://school.programme
 
 sol69.cpp   - 프로그래머스: 삼각 달팽이     https://school.programmers.co.kr/learn/courses/30/lessons/68645
 
+sol70.cpp   - 프로그래머스: 연속된 부분 수열의 합     https://school.programmers.co.kr/learn/courses/30/lessons/178870
+
 ---
 
 
