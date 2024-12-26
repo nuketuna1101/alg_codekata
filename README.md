@@ -154,6 +154,8 @@ sol69.cpp   - 프로그래머스: 삼각 달팽이     https://school.programmer
 
 sol70.cpp   - 프로그래머스: 연속된 부분 수열의 합     https://school.programmers.co.kr/learn/courses/30/lessons/178870
 
+sol71.cpp   - 프로그래머스: 두 큐 합 같게 만들기     https://school.programmers.co.kr/learn/courses/30/lessons/118667
+
 ---
 
 
