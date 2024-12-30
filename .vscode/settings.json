@@ -60,6 +60,10 @@
         "xloctime": "cpp",
         "xmemory": "cpp",
         "xtr1common": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "list": "cpp",
+        "numeric": "cpp",
+        "unordered_set": "cpp",
+        "xhash": "cpp"
     }
 }
