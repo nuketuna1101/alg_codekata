@@ -160,6 +160,7 @@ sol72.cpp   - 프로그래머스: 무인도 여행             https://school.pr
 
 sol73.cpp   - 프로그래머스: 행렬 테두리 회전하기             https://school.programmers.co.kr/learn/courses/30/lessons/77485
 
+sol74.cpp   - 프로그래머스: 전력망을 둘로 나누기             https://school.programmers.co.kr/learn/courses/30/lessons/86971
 
 
 ---
