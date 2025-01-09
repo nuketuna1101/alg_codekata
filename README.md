@@ -166,6 +166,8 @@ sol75.cpp   - 프로그래머스: 배달             https://school.programmers.
 
 sol76.cpp   - 프로그래머스: 호텔 대실            https://school.programmers.co.kr/learn/courses/30/lessons/155651
 
+sol77.cpp   - 프로그래머스: 점 찍기           https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=cpp
+
 ---
 
 
