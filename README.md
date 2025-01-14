@@ -170,6 +170,8 @@ sol77.cpp   - 프로그래머스: 점 찍기           https://school.programmer
 
 sol78.cpp   - 프로그래머스: 마법의 엘리베이터           https://school.programmers.co.kr/learn/courses/30/lessons/148653
 
+sol79.cpp   - 프로그래머스: 거리두기 확인하기           https://school.programmers.co.kr/learn/courses/30/lessons/81302
+
 ---
 
 
