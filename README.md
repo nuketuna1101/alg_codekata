@@ -172,6 +172,8 @@ sol78.cpp   - 프로그래머스: 마법의 엘리베이터           https://sc
 
 sol79.cpp   - 프로그래머스: 거리두기 확인하기           https://school.programmers.co.kr/learn/courses/30/lessons/81302
 
+sol80.cpp   - 프로그래머스: 숫자 카드 나누기           https://school.programmers.co.kr/learn/courses/30/lessons/135807
+
 ---
 
 
