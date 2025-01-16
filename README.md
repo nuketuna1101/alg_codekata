@@ -174,6 +174,8 @@ sol79.cpp   - 프로그래머스: 거리두기 확인하기           https://sc
 
 sol80.cpp   - 프로그래머스: 숫자 카드 나누기           https://school.programmers.co.kr/learn/courses/30/lessons/135807
 
+sol81.cpp   - 프로그래머스: 멀쩡한 사각형           https://school.programmers.co.kr/learn/courses/30/lessons/62048
+
 ---
 
 
