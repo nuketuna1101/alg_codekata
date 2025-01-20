@@ -176,6 +176,8 @@ sol80.cpp   - 프로그래머스: 숫자 카드 나누기           https://scho
 
 sol81.cpp   - 프로그래머스: 멀쩡한 사각형           https://school.programmers.co.kr/learn/courses/30/lessons/62048
 
+sol82.cpp   - 프로그래머스: 시소 짝궁           https://school.programmers.co.kr/learn/courses/30/lessons/152996
+
 ---
 
 
