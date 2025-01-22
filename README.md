@@ -178,6 +178,8 @@ sol81.cpp   - 프로그래머스: 멀쩡한 사각형           https://school.p
 
 sol82.cpp   - 프로그래머스: 시소 짝궁           https://school.programmers.co.kr/learn/courses/30/lessons/152996
 
+sol83.cpp   - 프로그래머스: 테이블 해시 함수           https://school.programmers.co.kr/learn/courses/30/lessons/147354
+
 ---
 
 
